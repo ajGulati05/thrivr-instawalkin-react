@@ -1,0 +1,21 @@
+export default {
+  HOME: "/",
+  LOGIN: "/login",
+  REGISTRATION: "/registration",
+  FORGOTPASSWORD: "/forgot-password",
+  UPDATEPASSWORD: "/reset-password",
+  SIGNUP: "/signup",
+  DASHBOARD: "/dashboard",
+  CALENDER: "/calender",
+  PROFILE: "/profile",
+  REVIEWS: "/reviews",
+  CLIENTS: "/Clients",
+  AVAILABILITY: "/settings/availability",
+  DURATIONS: "/durations",
+  LICENSE: "/license",
+  MODALITIES: "/modalities",
+  NOTIFICATIONS: "/notification-settings",
+  CHANGE_PASSWORD: "/change-password",
+  ELEMENTS_PAGE: "/elements-showcase-page",
+  NotFoundPage: "*"
+};

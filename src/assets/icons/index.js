@@ -1,0 +1,12 @@
+export { default as IconAccessibility } from "./IconAccessibility";
+export { default as IconUser } from "./IconUser";
+export { default as IconSignOut } from "./IconSignOut";
+export { default as IconSun } from "./IconSun";
+export { default as IconDashboard } from "./IconDashboard";
+export { default as IconCustomerOperations } from "./IconCustomerOperations";
+export { default as IconPlatformManagement } from "./IconPlatformManagement";
+export { default as IconArrowUp } from "./IconArrowUp";
+export { default as IconArrowDown } from "./IconArrowDown";
+export { default as IconMoney } from "./IconMoney";
+export { default as IconReset } from "./IconReset";
+export { default as IconReview } from "./IconReview";

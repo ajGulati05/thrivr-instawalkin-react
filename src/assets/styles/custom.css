@@ -1,0 +1,50 @@
+/* --- components custom styles --- */
+/* PDropdown styles */
+.pdropdown-select-menu .ant-select-item {
+  border-bottom: solid 1px #e0e0e0;
+}
+
+.pdropdown-select-menu .ant-select-item:last-child {
+  border-bottom: 0px;
+}
+
+.pdropdown-select-menu .ant-select-item {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #616161;
+}
+
+.pdropdown-select-menu .ant-select-item-option-selected {
+  background-color: unset !important;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f05324 !important;
+}
+
+.pdropdown-select-menu
+  .ant-select-item-option
+  .ant-select-item-option-content
+  .ant-checkbox-wrapper
+  .ant-checkbox-checked
+  .ant-checkbox-inner {
+  background-color: #f05324;
+  border-color: #f05324;
+}
+
+.ant-menu-submenu-popup {
+  position: fixed !important;
+}
+
+.ant-spin-nested-loading > div > .ant-spin.global-loader-spinner .ant-spin-dot {
+  position: fixed;
+}
